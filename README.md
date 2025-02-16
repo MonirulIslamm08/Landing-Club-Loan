@@ -82,7 +82,7 @@ Deep Learning: TensorFlow, Keras
 
 Clone this repository:
 
-git clone https://github.com/your-username/Lending-Club-Loan-Prediction.git
+git clone https://github.com/MonirulIslamm08/Landing-Club-Loan
 
 Install dependencies:
 
@@ -102,4 +102,4 @@ Deploy the model as a web application
 
 📧 Contact
 
-For any queries, reach out to [your email or GitHub profile].
+For any queries, reach out to [https://github.com/MonirulIslamm08/Landing-Club-Loan].
